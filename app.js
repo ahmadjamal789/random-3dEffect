@@ -15,12 +15,3 @@ container.addEventListener('mousemove', (e) => {
 container.addEventListener('mouseleave', () => {
    card.style.transform = 'rotateX(0) rotateY(0)'
 });
-
-
-echo "# random-3dEffect" >> README.md
-git init
-git add README.md
-git commit -m "random3d"
-git branch -M main
-git remote add origin https://github.com/ahmadjamal789/random-3dEffect.git
-git push -u origin main
