@@ -20,7 +20,7 @@ container.addEventListener('mouseleave', () => {
 echo "# random-3dEffect" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "random3d"
 git branch -M main
 git remote add origin https://github.com/ahmadjamal789/random-3dEffect.git
 git push -u origin main
